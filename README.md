@@ -119,3 +119,7 @@
 ---
 
 ⭐ Поддержите проект
+## ⚠️ Disclaimer
+
+This project is developed as part of a business competition.
+All rights to the concept and materials belong to the authors.
